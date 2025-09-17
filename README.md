@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ ʜᴏʟɪᴅᴀʏ means Humble Optimist Learner Inspiring Dreams And Youths<br>📚 I'm currently learning Cairo, Rust, Motion Graphics and Marketing<br>🎲 Fun fact: my github username, thelastofinusa, originates from the fact that I am my father's last kid (Inusa)</p>
+<p align="left">✨ ʜᴏʟɪᴅᴀʏ means Humble Optimist Learner Inspiring Dreams And Youths<br>📚 I'm currently learning Cairo, Rust, Motion Graphics and Marketing<br>🎲 Fun fact: born September 1st, 2003, my github username, thelastofinusa, originates from the fact that I am my father's last kid (Inusa)</p>
 
 <!--
 **thelastofinusa/thelastofinusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
