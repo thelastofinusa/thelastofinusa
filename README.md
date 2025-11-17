@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Holiday means Humble Optimist Learner Inspiring Dreams And Youths<br>📚 I'm currently learning Move, Cairo, Rust, Motion Graphics and Marketing<br>👯 I’m looking to collaborate on any Web3 projects that actually solves problem<br>📫 How to reach me: via <a href="https://x.com/thelastofinusa" target="_blank">𝕏 (formerly Twitter)</a>, DM on <a href="https://wa.me/2348128157510" target="_blank">WhatsApp</a> or check out my <a href="https://linktr.ee/thelastofinusa" target="_blank">Linktree</a><br>😄 Pronouns: I identify as a male and my pronouns are He/him/his<br>⚡ Fun fact: born September 1st, my github username originates from the fact that I am my father's last kid (Inusa)</p>
+<p align="left">✨ Holiday means Humble Optimist Learner Inspiring Dreams And Youths<br>📚 I'm currently learning Sui Move<br>👯 I’m looking to collaborate on any Web3 projects that actually solves problem<br>📫 How to reach me: via <a href="https://x.com/thelastofinusa" target="_blank">𝕏 (formerly Twitter)</a>, DM on <a href="https://wa.me/2348128157510" target="_blank">WhatsApp</a> or check out my <a href="https://linktr.ee/thelastofinusa" target="_blank">Linktree</a><br>😄 Pronouns: I identify as a male and my pronouns are He/him/his<br>⚡ Fun fact: born September 1st, my github username originates from the fact that I am my father's last kid (Inusa)</p>
 
 <!--
 **thelastofinusa/thelastofinusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
