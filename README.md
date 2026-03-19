@@ -55,6 +55,7 @@ Also known as **Holiday** — <br />
 **Featured Work**:
 
 - **[Bitterms](https://bitterms.com)** – BitTerms solves the problem of Bitcoin education being **too technical and confusing for everyday people**.
+- **[Trezo](https://trezosite.vercel.app/docs)** – Trezo makes building modern dApps simpler by **unifying type-safe contract interactions, wallet integrations, and Web3 state into one modular, cross-chain toolkit**.
 
   
 
