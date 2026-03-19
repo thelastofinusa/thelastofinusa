@@ -100,3 +100,7 @@ a **H**umble **O**ptimistic **L**earner **I**nspiring **D**reams **A**nd **Y**ou
 [![Github Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-30363D?&logo=GitHub-Sponsors&logoColor=EA4AAA)](https://github.com/sponsors/thelastofinusa)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
 [![PayPal](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff)](#)
+
+----
+
+> Looking for badge options? Check out this [github repository](https://github.com/inttter/md-badges) for badges like mine.
