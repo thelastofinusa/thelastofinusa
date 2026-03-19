@@ -14,6 +14,7 @@ Also known as **Holiday** — <br />
 - Contribute to **open-source and developer tooling**
 - Explore **data-driven systems, intelligent algorithms**
 
+
  **Core Focus**:
 
 - Web3 Frontend Development (dApps)
@@ -22,8 +23,6 @@ Also known as **Holiday** — <br />
 - Performance Optimization
 - Developer Experience (DX)
 
-
-### Tech Stacks:
 
 **Languages**:
 
@@ -53,7 +52,22 @@ Also known as **Holiday** — <br />
 - Comfortable across **Web2 ↔ Web3 bridge**
 
 
-### Connect with me:
+**Featured Work**:
+
+- **[Bitterms](https://bitterms.com)** – BitTerms solves the problem of Bitcoin education being **too technical and confusing for everyday people**.
+
+  
+
+**Open To**:
+
+- Web3 Frontend Roles (Full-time / Contract)
+- Open-source collaboration
+- Hackathons & grants
+- Research + engineering opportunities
+
+  
+
+**Connect with me**:
 
 <p align = "center">
 
@@ -65,15 +79,3 @@ Also known as **Holiday** — <br />
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/thelastofinusa)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thelastofinusa)
 </p>
-
-
-**Open To**:
-
-- Web3 Frontend Roles (Full-time / Contract)
-- Open-source collaboration
-- Hackathons & grants
-- Research + engineering opportunities
-
-**Featured Work**:
-
-- **[Bitterms](https://bitterms.com)** – BitTerms solves the problem of Bitcoin education being **too technical and confusing for everyday people**.
