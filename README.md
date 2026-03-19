@@ -1,28 +1,79 @@
-<h1 align="left">Greetings Human 👋</h1>
+### Hi, I'm [Abdullahi Salihu](https://thelastofinusa.vercel.app)
 
-###
+ **Web3 Frontend Engineer** and a **[Web3Bridge](https://www.web3bridgeafrica.com/) Cohort X alumni** building scalable, user-focused decentralized applications.
 
-<p align="left">I am a Web3 Frontend Developer from Kaduna, Nigeria, and my name is Abdullahi Inusa Salihu, but I prefer to be called Holiday.</p>
+Also known as **Holiday** — <br />
+**H**umble **O**ptimistic **L**earner **I**nspiring **D**reams **A**nd **Y**ouths.
 
-###
 
-<h2 align="left">About me</h2>
+**What I do**:
 
-###
+- Build **production-ready dApps** with clean UX and strong performance
+- Integrate **smart contracts (Solidity, Move e.t.s)** into modern frontend stacks
+- Design **scalable frontend architectures** using **React & Next.js**
+- Contribute to **open-source and developer tooling**
+- Explore **data-driven systems, intelligent algorithms**
 
-<p align="left">✨ Holiday is an acronym Humble Optimist Learner Inspiring Dreams And Youths<br>📚 I'm currently learning Sui Move<br>👯 I’m looking to collaborate on any Web3 projects that actually solves problem<br>📫 How to reach me: via <a href="https://x.com/thelastofinusa" target="_blank">𝕏 (formerly Twitter)</a>, DM on <a href="https://wa.me/2348128157510" target="_blank">WhatsApp</a> or check out my <a href="https://linktr.ee/thelastofinusa" target="_blank">Linktree</a><br>😄 Pronouns: I identify as a male and my pronouns are He/him/his<br>⚡ Fun fact: born September 1st, my github username originates from the fact that I am my father's last kid (Inusa)</p>
+ **Core Focus**:
 
-<!--
-**thelastofinusa/thelastofinusa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Web3 Frontend Development (dApps)
+- Smart Contract Integration
+- Wallet & On-chain UX
+- Performance Optimization
+- Developer Experience (DX)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stacks:
+
+**Languages**:
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Sui Move](https://img.shields.io/badge/Sui%20Move-6FBCF0?style=for-the-badge&logo=sui&logoColor=white)
+
+**Tools and Technologies**:
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+**IDEs**:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+
+
+**Value Proposition**:
+
+- Strong focus on **real-world usability in Web3 products**
+- Combines **engineering + research mindset**
+- Writes **clean, maintainable, and scalable code**
+- Comfortable across **Web2 ↔ Web3 bridge**
+
+
+### Connect with me:
+
+<p align = "center">
+
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thelastofinusa.vercel.app)
+[![X (Twitter)](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thelastofinusa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thelastofinusa/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@thelastofinusa)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thelastofinusa)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/thelastofinusa)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/thelastofinusa)
+</p>
+
+
+**Open To**:
+
+- Web3 Frontend Roles (Full-time / Contract)
+- Open-source collaboration
+- Hackathons & grants
+- Research + engineering opportunities
+
+**Featured Work**:
+
+- **[Bitterms](https://bitterms.com)** – BitTerms solves the problem of Bitcoin education being **too technical and confusing for everyday people**.
