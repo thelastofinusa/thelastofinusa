@@ -1,9 +1,9 @@
 ### Hi, I'm [Abdullahi Salihu](https://thelastofinusa.vercel.app)
 
- **Web3 Frontend Engineer** and a **[Web3Bridge](https://www.web3bridgeafrica.com/) Cohort X alumni** building scalable, user-focused decentralized applications.
-
 Also known as **Holiday** — <br />
-**H**umble **O**ptimistic **L**earner **I**nspiring **D**reams **A**nd **Y**ouths.
+a **H**umble **O**ptimistic **L**earner **I**nspiring **D**reams **A**nd **Y**ouths.
+
+ > I'm a **Web3 Frontend Engineer** and a **[Web3Bridge](https://www.web3bridgeafrica.com/) Cohort X alumni** building scalable, user-focused web2 & web3 applications.
 
 
 **What I do**:
