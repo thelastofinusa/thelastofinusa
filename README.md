@@ -70,7 +70,8 @@ a **H**umble **O**ptimistic **L**earner **I**nspiring **D**reams **A**nd **Y**ou
 **Featured Work**:
 
 - **[Bitterms](https://bitterms.com)** – BitTerms solves the problem of Bitcoin education being **too technical and confusing for everyday people**.
-- **[Trezo](https://trezosite.vercel.app/docs)** – Trezo makes building modern dApps simpler by **unifying type-safe contract interactions, wallet integrations, and Web3 state into one modular, cross-chain toolkit**.
+- **[Trezo](https://trezosite.vercel.app)** – Trezo makes building modern dApps simpler by **unifying type-safe contract interactions, wallet integrations, and Web3 state into one modular, cross-chain toolkit**.
+- **[Ekimedo Atelier](https://ekimedo.com)** – Ekimedo Atelier is a premium ecommerce platform focused on **bespoke fashion**, allowing customers to **browse collections, customize orders, schedule consultations, and purchase high-end fashion items online**.
 
   
 
