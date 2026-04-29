@@ -71,6 +71,7 @@ Also known as **Holiday** — a **H**umble **O**ptimistic **L**earner **I**nspir
 - **[Trezo](https://trezosite.vercel.app)** – Trezo makes building modern dApps simpler by **unifying type-safe contract interactions, wallet integrations, and Web3 state into one modular, cross-chain toolkit**.
 - **[Bitcoin Design Adoption Network (BDAN)](https://bdan.design)** – BDAN trains African designers to create sovereign, human-centred Bitcoin experiences for the next wave of users through open, decentralized design.
 - **[Ekimedo Atelier](https://ekimedo.com)** – Ekimedo Atelier is a premium ecommerce platform focused on **bespoke fashion**, allowing customers to **browse collections, customize orders, schedule consultations, and purchase high-end fashion items online**.
+- **[Typest](https://thetypest.vercel.app)** – **Typed asset paths for modern frameworks**. Import every asset with **autocomplete** and confidence — **No broken paths, no string typos.**
 
   
 
