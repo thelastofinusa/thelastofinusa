@@ -1,8 +1,8 @@
-### Hi, I'm [Abdullahi Salihu](https://thelastofinusa.vercel.app)
+### Hi, I'm [Abdullahi Salihu](https://thelastofinusa.vercel.app) 👋
 
-Also known as **Holiday** — a **H**umble **O**ptimistic **L**earner **I**nspiring **D**reams **A**nd **Y**ouths.
+Also known as **Osilama** or **Osi** for short.
 
-> I'm a **Web3 Frontend Engineer**, **Open-source Contributor**, and alumnus of **[Web3Bridge Cohort 10](https://www.web3bridgeafrica.com/)**, building **scalable, user-focused Web2 & Web3 applications**.
+> I'm a **Web3 Frontend Engineer**, **Open-source Contributor**, and proud alumnus of **[Web3Bridge Cohort 10](https://www.web3bridgeafrica.com/)**, building **scalable, user-focused Web2 & Web3 applications**.
 
 
 **What I do**:
@@ -67,8 +67,9 @@ Also known as **Holiday** — a **H**umble **O**ptimistic **L**earner **I**nspir
 
 **Featured Work**:
 
+- **[PushAI](https://pushai.vercel.app)** – PushAI stages your changes, writes meaningful **commit messages** with AI, and pushes.
 - **[Bitterms](https://bitterms.com)** – BitTerms solves the problem of Bitcoin education being **too technical and confusing for everyday people**.
-- **[Trezo](https://trezosite.vercel.app)** – Trezo makes building modern dApps simpler by **unifying type-safe contract interactions, wallet integrations, and Web3 state into one modular, cross-chain toolkit**.
+- **[PackMD](https://packmd.vercel.app)** – Convert any **GitHub repository** and **Web page** into structured text digest, ready to paste into ChatGPT, Claude, or any AI.
 - **[Bitcoin Design Adoption Network (BDAN)](https://bdan.design)** – BDAN trains African designers to create sovereign, human-centred Bitcoin experiences for the next wave of users through open, decentralized design.
 - **[Ekimedo Atelier](https://ekimedo.com)** – Ekimedo Atelier is a premium ecommerce platform focused on **bespoke fashion**, allowing customers to **browse collections, customize orders, schedule consultations, and purchase high-end fashion items online**.
 - **[Typest](https://thetypest.vercel.app)** – **Typed asset paths for modern frameworks**. Import every asset with **autocomplete** and confidence — **No broken paths, no string typos.**
